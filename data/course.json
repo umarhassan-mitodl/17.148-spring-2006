@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "077f12f3-6801-3047-deed-2983f676a317",
+  "instructors": {
+    "content": [
+      "1d6e1725-27ea-224e-988e-8add2f1814bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9df6be89-2545-784a-db14-d04e3ae4cd6b",
+    "website": "17-148-political-economy-of-globalization-spring-2006"
+  },
+  "course_title": "Political Economy of Globalization",
+  "course_description": "This is a graduate seminar for students who already have some familiarity with issues in political economy and/or European politics. The objective is to examine the ways in which changes in the international economy and the regimes that regulate it interact with domestic politics, policy-making, and the institutional structures of the political economy in industrialized democracies.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.148",
+  "course_image_thumbnail": {
+    "content": "733bc6ac-de6f-d53f-409d-004af659e89b",
+    "website": "17-148-political-economy-of-globalization-spring-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "f377309e-d27f-49ed-9323-53c58acefde1",
+  "site_short_id": "17.148-spring-2006",
+  "site_url_path": "courses/17-148-political-economy-of-globalization-spring-2006",
+  "title": "Course Metadata"
+}
