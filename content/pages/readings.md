@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the list of readings associated with each session
   of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -39,9 +41,9 @@ Readings
 The First Globalization
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "be2cb0e7-7d53-4e17-ad8c-977d84cac791" "![Buy at MIT Press](/images/mp_logo.gif)" %}} O'Rourke, K. H., and J. G. Williamson. {{% resource_link "be2cb0e7-7d53-4e17-ad8c-977d84cac791" "_Globalization and History_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 9780262650595.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650595) O'Rourke, K. H., and J. G. Williamson. [_Globalization and History_](https://mitpress.mit.edu/9780262650595). Cambridge, MA: MIT Press, 2001. ISBN: 9780262650595.
 
-Bordo, M., B. Eichengreen, and D. Irwin. "{{% resource_link "94d8b5e9-c7e6-4d44-9a90-dc1dbc85f642" "Is Globalization Today Really Different than Globalization 100 years Ago?" %}}" National Bureau of Economic Research Working Paper No. 7195, 1999.
+Bordo, M., B. Eichengreen, and D. Irwin. "[Is Globalization Today Really Different than Globalization 100 years Ago?](http://www.nber.org/papers/W7195)" National Bureau of Economic Research Working Paper No. 7195, 1999.
 
 
 {{< tdclose >}}
@@ -209,7 +211,7 @@ Iversen, Torben, and Anne Wren. "Equality, Employment and Budgetary Restraint: T
 
 Burtless, Gary. "International Trade and the Rise in Earnings Inequality." _Journal of Economic Literature_ 33 (June 1995): 800-16.
 
-Sala-i-Martin, Xavier. "{{% resource_link "44fadba4-57b1-4c51-806c-f3cd1d83c9e3" "The Disturbing 'Rise' of Global Income Inequality." %}}" National Bureau of Economic Research Working Paper No. 8904, April 2004.
+Sala-i-Martin, Xavier. "[The Disturbing 'Rise' of Global Income Inequality.](http://www.nber.org/papers/W8904)" National Bureau of Economic Research Working Paper No. 8904, April 2004.
 
 
 {{< tdclose >}}
@@ -291,7 +293,7 @@ Globalization and Politics
 
 Frieden, Jeffry. "Invested Interests: The Politics of National Economic Policies in a World of Global Finance." _International Organization_ 45 (1991): 425-451.
 
-Scheve, Kenneth, and Matthew Slaughter. "{{% resource_link "cf6064a5-3d68-46b2-9c9a-8d4f7f8ee6fe" "What Determines Individual Trade Policy Preferences?" %}}" National Bureau of Economic Research Working Paper No. 6531, April 1998.
+Scheve, Kenneth, and Matthew Slaughter. "[What Determines Individual Trade Policy Preferences?](http://www.nber.org/papers/W6531)" National Bureau of Economic Research Working Paper No. 6531, April 1998.
 
 Ancelovici, Marcos. "Organizing Against Globalization: The Case of ATTAC in France." _Politics and Society_ 30, no. 3 (September 2002): 427-463.
 
